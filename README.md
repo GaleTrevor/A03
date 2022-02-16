@@ -14,7 +14,7 @@ Part 1: Directions on Using Github
 
 
 Part 2: Glossary of Terms
-  **Branch** - a unique set of code changes with a unique name
+  **Branch** - a unique set of code changes with a unique name<br>
   **Clone** - the act of copying a repository from Github to your PC
   **Commit** - a change to a file or set of files
   **Fetch** - a command that downloads commits, files, and refs from a remote repoistory into the local repository
